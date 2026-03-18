@@ -1,0 +1,74 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# vscode
+
+
+# Build folder
+build
+
+# Third party
+third_party
+
+# LLVM IR corpus
+corpus
+
+# Temporary folders
+tmp*
+
+*__pycache__
+
+*/__pycache__
+# Interesting results
+# *result*
+
+# config
+config
+
+# pychache
+__pycache__
+
+# test_err/test_out
+alive2_output_example
+
+#lpo
+launch_lpo_refer.py
+
+llvm-opt-benchmark
+mimalloc
+pattern.ll
+selected_benchmarks
+cost_benchmarks
+outdated
+.DS_Store
+
