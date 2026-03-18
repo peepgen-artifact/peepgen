@@ -25,3 +25,9 @@ mkdir config
 Then create a file named
 gemini_config.json and then put the apikey into it.
 
+### 4. Run generalization
+At the project root directory:
+```bash
+python3 generalization/peepgen_v3.py
+```
+
